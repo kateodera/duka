@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4884ee47-a5b7-4197-a6b6-5604ac1faeb5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/duka/apiviews.py" beforeDir="false" afterPath="$PROJECT_DIR$/duka/apiviews.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/duka/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/duka/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/duka/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/duka/tests.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +101,7 @@
       <updated>1579601739633</updated>
       <workItem from="1579601741182" duration="8256000" />
       <workItem from="1579671098666" duration="15291000" />
-      <workItem from="1579756978130" duration="4440000" />
+      <workItem from="1579756978130" duration="7551000" />
     </task>
     <servers />
   </component>

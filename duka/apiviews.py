@@ -75,7 +75,7 @@ class ProductRetrieveUpdateDestroy(RetrieveUpdateDestroyAPIView):
         return response
 
 
-class  ProductStats(GenericAPIView):
+class ProductStats(GenericAPIView):
     lookup_field = 'id'
     serializer_class = ProductStatSerializer
     queryset = Product.objects.all()
