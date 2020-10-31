@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/geopro/Desktop/Coding/soko/venv"
+VIRTUAL_ENV="/home/admin/PycharmProjects/duka/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
